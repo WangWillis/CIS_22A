@@ -1,0 +1,11 @@
+Ana 87 79 91 
+Beatrice 78 89 96
+Bethan 83 94 93 
+Juan 93 100 86
+Joanne 72 85 82
+Patrick 80 92 100
+Rita 92 91 74
+Suzan 67 91 97
+Wallace 93 99 91
+Wesley 82 91 99
+

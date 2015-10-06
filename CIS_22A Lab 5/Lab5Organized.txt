@@ -1,0 +1,11 @@
+Name     Average    Highest Score     Lowest Score
+Ana      86         91                79
+Beatrice 88         96                78
+Bethan   90         94                83
+Juan     93         100               86
+Joanne   80         85                72
+Patrick  91         100               80
+Rita     86         92                74
+Suzan    85         97                67
+Wallace  94         99                91
+Wesley   91         99                82
